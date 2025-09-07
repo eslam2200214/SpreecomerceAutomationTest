@@ -1,0 +1,1182 @@
+2025-08-06 09:59:55 INFO  registerTest:40 - Starting test: register()
+2025-08-06 09:59:55 ERROR registerTest:41 - ??? ????????
+2025-08-06 10:06:18 INFO  registerTest:40 - Starting test: register()
+2025-08-06 10:06:18 ERROR registerTest:41 - فشل الاختبار
+2025-08-07 12:25:54 INFO  registerTest:35 - finish test: register()
+2025-08-07 12:25:56 ERROR registerTest:50 - The test failed
+2025-08-07 12:25:56 INFO  registerTest:53 - finshing test : register()
+2025-08-07 12:28:05 INFO  registerTest:35 - finish test: register()
+2025-08-07 12:28:06 ERROR registerTest:50 - The test failed
+2025-08-07 12:28:06 INFO  registerTest:53 - finshing test : register()
+2025-08-07 12:35:07 INFO  registerTest:35 - finish test: register()
+2025-08-07 12:35:07 ERROR registerTest:50 - The test failed
+2025-08-07 12:35:07 INFO  registerTest:53 - finshing test : register()
+2025-08-07 12:35:25 INFO  registerTest:35 - finish test: register()
+2025-08-07 12:35:26 ERROR registerTest:50 - The test failed
+2025-08-07 12:35:26 INFO  registerTest:53 - finshing test : register()
+2025-08-07 12:40:55 INFO  registerTest:35 - finish test: register()
+2025-08-07 12:41:07 ERROR registerTest:50 - The test failed
+2025-08-07 12:41:07 INFO  registerTest:53 - finshing test : register()
+2025-08-07 12:44:17 INFO  registerTest:35 - finish test: register()
+2025-08-07 12:44:28 ERROR registerTest:50 - The test failed
+2025-08-07 12:44:28 INFO  registerTest:53 - finshing test : register()
+2025-08-07 12:48:57 INFO  registerTest:35 - finish test: register()
+2025-08-07 12:49:00 ERROR registerTest:50 - The test failed
+2025-08-07 12:49:00 INFO  registerTest:53 - finshing test : register()
+2025-08-07 12:49:20 INFO  registerTest:35 - finish test: register()
+2025-08-07 12:49:32 ERROR registerTest:50 - The test failed
+2025-08-07 12:49:32 INFO  registerTest:53 - finshing test : register()
+2025-08-07 12:50:18 INFO  registerTest:35 - finish test: register()
+2025-08-07 12:50:21 ERROR registerTest:50 - The test failed
+2025-08-07 12:50:21 INFO  registerTest:53 - finshing test : register()
+2025-08-07 12:51:17 INFO  registerTest:35 - finish test: register()
+2025-08-07 12:51:20 ERROR registerTest:50 - The test failed
+2025-08-07 12:51:20 INFO  registerTest:53 - finshing test : register()
+2025-08-07 13:02:02 INFO  registerTest:35 - finish test: register()
+2025-08-07 13:02:06 ERROR registerTest:50 - The test failed
+2025-08-07 13:02:06 INFO  registerTest:53 - finshing test : register()
+2025-08-07 13:05:58 INFO  registerTest:35 - finish test: register()
+2025-08-07 13:06:02 ERROR registerTest:50 - The test failed
+2025-08-07 13:06:02 INFO  registerTest:53 - finshing test : register()
+2025-08-07 13:07:25 INFO  registerTest:35 - finish test: register()
+2025-08-07 13:07:36 ERROR registerTest:50 - The test failed
+2025-08-07 13:07:36 INFO  registerTest:53 - finshing test : register()
+2025-08-07 13:13:03 INFO  registerTest:35 - finish test: register()
+2025-08-07 13:13:06 ERROR registerTest:50 - The test failed
+2025-08-07 13:13:06 INFO  registerTest:53 - finshing test : register()
+2025-08-07 13:22:47 INFO  registerTest:35 - finish test: register()
+2025-08-07 13:22:51 ERROR registerTest:50 - The test failed
+2025-08-07 13:22:51 INFO  registerTest:53 - finshing test : register()
+2025-08-07 13:40:12 INFO  registerTest:35 - finish test: register()
+2025-08-07 13:40:30 ERROR registerTest:50 - The test failed
+2025-08-07 13:40:30 INFO  registerTest:53 - finshing test : register()
+2025-08-07 13:47:56 INFO  registerTest:35 - finish test: register()
+2025-08-07 13:47:56 INFO  registerTest:35 - finish test: register()
+2025-08-07 13:48:01 ERROR registerTest:50 - The test failed
+2025-08-07 13:48:01 INFO  registerTest:53 - finshing test : register()
+2025-08-07 13:48:02 ERROR registerTest:50 - The test failed
+2025-08-07 13:48:02 INFO  registerTest:53 - finshing test : register()
+2025-08-07 13:48:47 INFO  registerTest:35 - finish test: register()
+2025-08-07 13:48:48 INFO  registerTest:48 - register test passed successfully
+2025-08-07 13:48:48 INFO  registerTest:53 - finshing test : register()
+2025-08-07 13:52:29 INFO  registerTest:35 - finish test: register()
+2025-08-07 13:52:33 ERROR registerTest:50 - The test failed
+2025-08-07 13:52:33 INFO  registerTest:53 - finshing test : register()
+2025-08-07 13:52:59 INFO  registerTest:35 - finish test: register()
+2025-08-07 13:53:01 INFO  registerTest:48 - register test passed successfully
+2025-08-07 13:53:01 INFO  registerTest:53 - finshing test : register()
+2025-08-07 13:53:15 INFO  registerTest:35 - finish test: register()
+2025-08-07 13:53:17 INFO  registerTest:48 - register test passed successfully
+2025-08-07 13:53:17 INFO  registerTest:53 - finshing test : register()
+2025-08-07 13:55:33 INFO  registerTest:35 - finish test: register()
+2025-08-07 13:55:34 INFO  registerTest:48 - register test passed successfully
+2025-08-07 13:55:34 INFO  registerTest:53 - finshing test : register()
+2025-08-10 13:15:24 INFO  registerTest:35 - finish test: register()
+2025-08-10 13:15:27 INFO  registerTest:48 - register test passed successfully
+2025-08-10 13:15:27 INFO  registerTest:53 - finshing test : register()
+2025-08-10 13:16:33 INFO  registerTest:35 - finish test: register()
+2025-08-10 13:16:35 INFO  registerTest:48 - register test passed successfully
+2025-08-10 13:16:35 INFO  registerTest:53 - finshing test : register()
+2025-08-10 14:39:55 INFO  registerTest:35 - finish test: register()
+2025-08-10 14:39:57 INFO  registerTest:48 - register test passed successfully
+2025-08-10 14:39:57 INFO  registerTest:53 - finshing test : register()
+2025-08-11 11:00:06 INFO  registerTest:35 - finish test: register()
+2025-08-11 11:00:09 INFO  registerTest:48 - register test passed successfully
+2025-08-11 11:00:09 INFO  registerTest:53 - finshing test : register()
+2025-08-11 11:01:56 INFO  registerTest:35 - finish test: register()
+2025-08-11 11:02:07 ERROR registerTest:50 - The test failed
+2025-08-11 11:02:07 INFO  registerTest:53 - finshing test : register()
+2025-08-11 11:02:20 INFO  registerTest:35 - finish test: register()
+2025-08-11 11:02:30 ERROR registerTest:50 - The test failed
+2025-08-11 11:02:30 INFO  registerTest:53 - finshing test : register()
+2025-08-11 11:17:14 INFO  registerTest:35 - finish test: register()
+2025-08-11 11:17:19 INFO  registerTest:48 - register test passed successfully
+2025-08-11 11:17:19 INFO  registerTest:53 - finshing test : register()
+2025-08-11 11:26:26 INFO  registerTest:35 - finish test: register()
+2025-08-11 11:26:30 INFO  registerTest:48 - register test passed successfully
+2025-08-11 11:26:30 INFO  registerTest:53 - finshing test : register()
+2025-08-11 11:27:07 INFO  registerTest:35 - finish test: register()
+2025-08-11 11:27:10 ERROR registerTest:50 - The test failed
+2025-08-11 11:27:10 INFO  registerTest:53 - finshing test : register()
+2025-08-11 11:27:42 INFO  registerTest:35 - finish test: register()
+2025-08-11 11:27:46 ERROR registerTest:50 - The test failed
+2025-08-11 11:27:46 INFO  registerTest:53 - finshing test : register()
+2025-08-11 11:30:01 INFO  registerTest:35 - finish test: register()
+2025-08-11 11:30:05 ERROR registerTest:50 - The test failed
+2025-08-11 11:30:05 INFO  registerTest:53 - finshing test : register()
+2025-08-11 11:30:44 INFO  registerTest:35 - finish test: register()
+2025-08-11 11:30:48 ERROR registerTest:50 - The test failed
+2025-08-11 11:30:48 INFO  registerTest:53 - finshing test : register()
+2025-08-11 11:31:31 INFO  registerTest:35 - finish test: register()
+2025-08-11 11:31:42 ERROR registerTest:50 - The test failed
+2025-08-11 11:31:42 INFO  registerTest:53 - finshing test : register()
+2025-08-11 11:31:59 INFO  registerTest:35 - finish test: register()
+2025-08-11 11:32:04 ERROR registerTest:50 - The test failed
+2025-08-11 11:32:04 INFO  registerTest:53 - finshing test : register()
+2025-08-11 11:43:25 INFO  registerTest:35 - finish test: register()
+2025-08-11 11:43:36 ERROR registerTest:50 - The test failed
+2025-08-11 11:43:36 INFO  registerTest:53 - finshing test : register()
+2025-08-11 11:44:34 INFO  registerTest:35 - finish test: register()
+2025-08-11 11:44:39 ERROR registerTest:50 - The test failed
+2025-08-11 11:44:39 INFO  registerTest:53 - finshing test : register()
+2025-08-11 11:45:58 INFO  registerTest:35 - finish test: register()
+2025-08-11 11:46:01 ERROR registerTest:49 - The test failed
+2025-08-11 11:46:01 INFO  registerTest:52 - finshing test : register()
+2025-08-11 11:46:12 INFO  registerTest:35 - finish test: register()
+2025-08-11 11:46:15 ERROR registerTest:49 - The test failed
+2025-08-11 11:46:15 INFO  registerTest:52 - finshing test : register()
+2025-08-11 11:46:51 INFO  registerTest:35 - finish test: register()
+2025-08-11 11:46:53 INFO  registerTest:47 - register test passed successfully
+2025-08-11 11:46:53 INFO  registerTest:52 - finshing test : register()
+2025-08-11 11:47:11 INFO  registerTest:35 - finish test: register()
+2025-08-11 11:47:14 INFO  registerTest:47 - register test passed successfully
+2025-08-11 11:47:14 INFO  registerTest:52 - finshing test : register()
+2025-08-11 11:47:43 INFO  registerTest:35 - finish test: register()
+2025-08-11 11:47:45 INFO  registerTest:47 - register test passed successfully
+2025-08-11 11:47:45 INFO  registerTest:52 - finshing test : register()
+2025-08-11 11:51:46 INFO  registerTest:35 - finish test: register()
+2025-08-11 11:51:49 INFO  registerTest:47 - register test passed successfully
+2025-08-11 11:51:49 INFO  registerTest:52 - finshing test : register()
+2025-08-11 11:52:32 INFO  registerTest:35 - finish test: register()
+2025-08-11 11:52:34 INFO  registerTest:47 - register test passed successfully
+2025-08-11 11:52:34 INFO  registerTest:52 - finshing test : register()
+2025-08-11 11:54:32 INFO  registerTest:35 - finish test: register()
+2025-08-11 11:54:44 ERROR registerTest:49 - The test failed
+2025-08-11 11:54:44 INFO  registerTest:52 - finshing test : register()
+2025-08-11 11:54:54 INFO  registerTest:35 - finish test: register()
+2025-08-11 11:55:04 ERROR registerTest:49 - The test failed
+2025-08-11 11:55:04 INFO  registerTest:52 - finshing test : register()
+2025-08-11 11:55:23 INFO  registerTest:35 - finish test: register()
+2025-08-11 11:55:26 ERROR registerTest:49 - The test failed
+2025-08-11 11:55:26 INFO  registerTest:52 - finshing test : register()
+2025-08-11 12:01:41 INFO  registerTest:35 - finish test: register()
+2025-08-11 12:01:52 ERROR registerTest:49 - The test failed
+2025-08-11 12:01:52 INFO  registerTest:52 - finshing test : register()
+2025-08-11 12:07:25 INFO  registerTest:35 - finish test: register()
+2025-08-11 12:07:28 ERROR registerTest:49 - The test failed
+2025-08-11 12:07:28 INFO  registerTest:52 - finshing test : register()
+2025-08-11 12:08:31 INFO  registerTest:35 - finish test: register()
+2025-08-11 12:08:33 INFO  registerTest:47 - register test passed successfully
+2025-08-11 12:08:33 INFO  registerTest:52 - finshing test : register()
+2025-08-11 12:08:46 INFO  registerTest:35 - finish test: register()
+2025-08-11 12:08:49 INFO  registerTest:47 - register test passed successfully
+2025-08-11 12:08:49 INFO  registerTest:52 - finshing test : register()
+2025-08-11 12:09:30 INFO  registerTest:35 - finish test: register()
+2025-08-11 12:09:43 ERROR registerTest:49 - The test failed
+2025-08-11 12:09:43 INFO  registerTest:52 - finshing test : register()
+2025-08-11 12:11:01 INFO  registerTest:35 - finish test: register()
+2025-08-11 12:11:05 ERROR registerTest:50 - The test failed
+2025-08-11 12:11:05 INFO  registerTest:53 - finshing test : register()
+2025-08-11 12:11:22 INFO  registerTest:35 - finish test: register()
+2025-08-11 12:11:32 ERROR registerTest:50 - The test failed
+2025-08-11 12:11:32 INFO  registerTest:53 - finshing test : register()
+2025-08-11 12:11:49 INFO  registerTest:35 - finish test: register()
+2025-08-11 12:12:00 ERROR registerTest:50 - The test failed
+2025-08-11 12:12:00 INFO  registerTest:53 - finshing test : register()
+2025-08-11 12:12:22 INFO  registerTest:35 - finish test: register()
+2025-08-11 12:12:26 ERROR registerTest:50 - The test failed
+2025-08-11 12:12:26 INFO  registerTest:53 - finshing test : register()
+2025-08-11 12:13:59 INFO  registerTest:35 - finish test: register()
+2025-08-11 12:14:05 ERROR registerTest:50 - The test failed
+2025-08-11 12:14:05 INFO  registerTest:53 - finshing test : register()
+2025-08-11 12:15:26 INFO  registerTest:35 - finish test: register()
+2025-08-11 12:15:40 INFO  registerTest:48 - register test passed successfully
+2025-08-11 12:15:40 INFO  registerTest:53 - finshing test : register()
+2025-08-11 12:16:16 INFO  registerTest:35 - finish test: register()
+2025-08-11 12:16:20 INFO  registerTest:48 - register test passed successfully
+2025-08-11 12:16:20 INFO  registerTest:53 - finshing test : register()
+2025-08-11 12:20:09 INFO  registerTest:35 - finish test: register()
+2025-08-11 12:20:12 INFO  registerTest:48 - register test passed successfully
+2025-08-11 12:20:12 INFO  registerTest:53 - finshing test : register()
+2025-08-11 12:20:30 INFO  registerTest:35 - finish test: register()
+2025-08-11 12:20:36 INFO  registerTest:48 - register test passed successfully
+2025-08-11 12:20:36 INFO  registerTest:53 - finshing test : register()
+2025-08-11 12:20:57 INFO  registerTest:35 - finish test: register()
+2025-08-11 12:21:23 ERROR registerTest:50 - The test failed
+2025-08-11 12:21:23 INFO  registerTest:53 - finshing test : register()
+2025-08-11 12:21:49 INFO  registerTest:35 - finish test: register()
+2025-08-11 12:22:14 ERROR registerTest:50 - The test failed
+2025-08-11 12:22:14 INFO  registerTest:53 - finshing test : register()
+2025-08-11 12:30:22 INFO  registerTest:35 - finish test: register()
+2025-08-11 12:30:28 INFO  registerTest:47 - register test passed successfully
+2025-08-11 12:30:28 INFO  registerTest:52 - finshing test : register()
+2025-08-11 12:37:46 INFO  registerTest:35 - finish test: register()
+2025-08-11 12:38:06 ERROR registerTest:49 - The test failed
+2025-08-11 12:38:06 INFO  registerTest:52 - finshing test : register()
+2025-08-11 12:38:13 INFO  registerTest:35 - finish test: register()
+2025-08-11 12:38:20 INFO  registerTest:47 - register test passed successfully
+2025-08-11 12:38:20 INFO  registerTest:52 - finshing test : register()
+2025-08-11 12:38:59 INFO  registerTest:35 - finish test: register()
+2025-08-11 12:39:06 INFO  registerTest:47 - register test passed successfully
+2025-08-11 12:39:06 INFO  registerTest:52 - finshing test : register()
+2025-08-11 12:41:42 INFO  registerTest:35 - finish test: register()
+2025-08-11 12:42:03 ERROR registerTest:49 - The test failed
+2025-08-11 12:42:03 INFO  registerTest:52 - finshing test : register()
+2025-08-11 12:42:21 INFO  registerTest:35 - finish test: register()
+2025-08-11 12:42:30 INFO  registerTest:47 - register test passed successfully
+2025-08-11 12:42:30 INFO  registerTest:52 - finshing test : register()
+2025-08-11 12:51:30 INFO  registerTest:35 - finish test: register()
+2025-08-11 12:52:08 INFO  registerTest:35 - finish test: register()
+2025-08-11 12:52:14 INFO  registerTest:47 - register test passed successfully
+2025-08-11 12:52:14 INFO  registerTest:52 - finshing test : register()
+2025-08-11 12:53:58 INFO  registerTest:35 - finish test: register()
+2025-08-11 12:54:19 ERROR registerTest:49 - The test failed
+2025-08-11 12:54:19 INFO  registerTest:52 - finshing test : register()
+2025-08-11 12:57:01 INFO  registerTest:35 - finish test: register()
+2025-08-11 12:57:07 INFO  registerTest:47 - register test passed successfully
+2025-08-11 12:57:07 INFO  registerTest:52 - finshing test : register()
+2025-08-12 09:43:02 INFO  registerTest:35 - finish test: register()
+2025-08-12 09:43:12 INFO  registerTest:47 - register test passed successfully
+2025-08-12 09:43:12 INFO  registerTest:52 - finshing test : register()
+2025-08-12 09:48:02 INFO  registerTest:35 - finish test: register()
+2025-08-12 09:48:14 INFO  registerTest:47 - register test passed successfully
+2025-08-12 09:48:14 INFO  registerTest:52 - finshing test : register()
+2025-08-12 09:49:58 INFO  registerTest:35 - finish test: register()
+2025-08-12 09:50:04 INFO  registerTest:47 - register test passed successfully
+2025-08-12 09:50:04 INFO  registerTest:52 - finshing test : register()
+2025-08-12 09:59:51 INFO  registerTest:35 - finish test: register()
+2025-08-12 09:59:57 INFO  registerTest:47 - register test passed successfully
+2025-08-12 09:59:57 INFO  registerTest:52 - finshing test : register()
+2025-08-12 10:02:09 INFO  registerTest:35 - finish test: register()
+2025-08-12 10:02:15 INFO  registerTest:47 - register test passed successfully
+2025-08-12 10:02:15 INFO  registerTest:52 - finshing test : register()
+2025-08-12 10:37:29 INFO  registerTest:38 - finish test: login()
+2025-08-12 10:37:59 ERROR registerTest:58 - The test failed
+2025-08-12 10:37:59 INFO  registerTest:61 - finshing test : register()
+2025-08-12 10:39:32 INFO  registerTest:38 - finish test: login()
+2025-08-12 10:39:54 ERROR registerTest:59 - The test failed
+2025-08-12 10:39:54 INFO  registerTest:62 - finshing test : register()
+2025-08-12 10:40:16 INFO  registerTest:38 - finish test: login()
+2025-08-12 10:40:27 INFO  registerTest:57 - register test passed successfully
+2025-08-12 10:40:27 INFO  registerTest:62 - finshing test : register()
+2025-08-12 10:41:32 INFO  registerTest:38 - finish test: login()
+2025-08-12 10:42:00 ERROR registerTest:59 - The test failed
+2025-08-12 10:42:00 INFO  registerTest:62 - finshing test : register()
+2025-08-12 10:42:11 INFO  registerTest:38 - finish test: login()
+2025-08-12 10:42:23 INFO  registerTest:57 - register test passed successfully
+2025-08-12 10:42:23 INFO  registerTest:62 - finshing test : register()
+2025-08-12 11:27:08 INFO  registerTest:39 - finish test: login()
+2025-08-12 11:27:15 ERROR registerTest:56 - The test failed
+2025-08-12 11:27:15 INFO  registerTest:59 - finshing test : register()
+2025-08-12 11:27:42 INFO  registerTest:39 - finish test: login()
+2025-08-12 11:27:46 ERROR registerTest:56 - The test failed
+2025-08-12 11:27:46 INFO  registerTest:59 - finshing test : register()
+2025-08-12 11:29:58 INFO  registerTest:39 - finish test: login()
+2025-08-12 11:30:02 ERROR registerTest:56 - The test failed
+2025-08-12 11:30:02 INFO  registerTest:59 - finshing test : register()
+2025-08-12 11:31:18 INFO  registerTest:39 - finish test: login()
+2025-08-12 11:31:23 INFO  registerTest:54 - register test passed successfully
+2025-08-12 11:31:23 INFO  registerTest:59 - finshing test : register()
+2025-08-12 11:31:47 INFO  registerTest:39 - finish test: login()
+2025-08-12 11:31:52 INFO  registerTest:54 - register test passed successfully
+2025-08-12 11:31:52 INFO  registerTest:59 - finshing test : register()
+2025-08-12 12:22:52 INFO  registerTest:39 - finish test: login()
+2025-08-12 12:22:58 ERROR registerTest:56 - The test failed
+2025-08-12 12:22:58 INFO  registerTest:59 - finshing test : register()
+2025-08-12 12:29:57 INFO  registerTest:39 - finish test: login()
+2025-08-12 12:30:05 ERROR registerTest:56 - The test failed
+2025-08-12 12:30:05 INFO  registerTest:59 - finshing test : register()
+2025-08-12 12:52:30 INFO  registerTest:39 - finish test: login()
+2025-08-12 12:52:36 ERROR registerTest:56 - The test failed
+2025-08-12 12:52:36 INFO  registerTest:59 - finshing test : register()
+2025-08-12 12:53:23 INFO  registerTest:39 - finish test: login()
+2025-08-12 12:53:28 ERROR registerTest:56 - The test failed
+2025-08-12 12:53:28 INFO  registerTest:59 - finshing test : register()
+2025-08-12 12:56:03 INFO  registerTest:39 - finish test: login()
+2025-08-12 12:56:09 INFO  registerTest:54 - register test passed successfully
+2025-08-12 12:56:09 INFO  registerTest:59 - finshing test : register()
+2025-08-12 12:58:36 INFO  registerTest:39 - finish test: login()
+2025-08-12 12:58:42 INFO  registerTest:54 - register test passed successfully
+2025-08-12 12:58:42 INFO  registerTest:59 - finshing test : register()
+2025-08-12 12:59:35 INFO  registerTest:39 - finish test: login()
+2025-08-12 12:59:43 INFO  registerTest:54 - register test passed successfully
+2025-08-12 12:59:43 INFO  registerTest:59 - finshing test : register()
+2025-08-12 13:00:17 INFO  registerTest:39 - finish test: login()
+2025-08-12 13:00:24 INFO  registerTest:54 - register test passed successfully
+2025-08-12 13:00:24 INFO  registerTest:59 - finshing test : register()
+2025-08-12 13:01:48 INFO  registerTest:39 - finish test: login()
+2025-08-12 13:01:52 ERROR registerTest:56 - The test failed
+2025-08-12 13:01:52 INFO  registerTest:59 - finshing test : register()
+2025-08-12 13:06:44 INFO  registerTest:39 - finish test: login()
+2025-08-12 13:07:07 ERROR registerTest:56 - The test failed
+2025-08-12 13:07:07 INFO  registerTest:59 - finshing test : register()
+2025-08-12 13:07:25 INFO  registerTest:39 - finish test: login()
+2025-08-12 13:07:29 ERROR registerTest:56 - The test failed
+2025-08-12 13:07:29 INFO  registerTest:59 - finshing test : register()
+2025-08-12 13:08:48 INFO  registerTest:39 - finish test: login()
+2025-08-12 13:08:52 ERROR registerTest:56 - The test failed
+2025-08-12 13:08:52 INFO  registerTest:59 - finshing test : register()
+2025-08-12 13:13:59 INFO  registerTest:39 - finish test: login()
+2025-08-12 13:14:04 ERROR registerTest:56 - The test failed
+2025-08-12 13:14:04 INFO  registerTest:59 - finshing test : register()
+2025-08-12 13:16:04 INFO  registerTest:39 - finish test: login()
+2025-08-12 13:16:08 ERROR registerTest:56 - The test failed
+2025-08-12 13:16:08 INFO  registerTest:59 - finshing test : register()
+2025-08-12 14:10:43 INFO  registerTest:39 - finish test: login()
+2025-08-12 14:10:49 ERROR registerTest:56 - The test failed
+2025-08-12 14:10:49 INFO  registerTest:59 - finshing test : register()
+2025-08-13 11:35:16 INFO  registerTest:39 - finish test: login()
+2025-08-13 11:35:22 ERROR registerTest:56 - The test failed
+2025-08-13 11:35:22 INFO  registerTest:59 - finshing test : register()
+2025-08-13 11:45:03 INFO  registerTest:39 - finish test: login()
+2025-08-13 11:45:08 ERROR registerTest:56 - The test failed
+2025-08-13 11:45:08 INFO  registerTest:59 - finshing test : register()
+2025-08-13 11:59:53 INFO  registerTest:39 - finish test: login()
+2025-08-13 11:59:59 INFO  registerTest:54 - register test passed successfully
+2025-08-13 11:59:59 INFO  registerTest:59 - finshing test : register()
+2025-08-13 12:01:07 INFO  registerTest:39 - finish test: login()
+2025-08-13 12:01:12 ERROR registerTest:56 - The test failed
+2025-08-13 12:01:12 INFO  registerTest:59 - finshing test : register()
+2025-08-13 12:05:13 INFO  registerTest:39 - finish test: login()
+2025-08-13 12:05:19 ERROR registerTest:56 - The test failed
+2025-08-13 12:05:19 INFO  registerTest:59 - finshing test : register()
+2025-08-13 12:45:08 INFO  registerTest:39 - finish test: login()
+2025-08-13 12:45:14 ERROR registerTest:56 - The test failed
+2025-08-13 12:45:14 INFO  registerTest:59 - finshing test : register()
+2025-08-13 12:48:00 INFO  registerTest:39 - finish test: login()
+2025-08-13 12:48:07 ERROR registerTest:56 - The test failed
+2025-08-13 12:48:07 INFO  registerTest:59 - finshing test : register()
+2025-08-13 12:48:47 INFO  registerTest:39 - finish test: login()
+2025-08-13 12:48:52 ERROR registerTest:56 - The test failed
+2025-08-13 12:48:52 INFO  registerTest:59 - finshing test : register()
+2025-08-13 12:53:28 INFO  registerTest:39 - finish test: login()
+2025-08-13 12:53:32 ERROR registerTest:57 - The test failed
+2025-08-13 12:53:32 INFO  registerTest:60 - finshing test : register()
+2025-08-13 13:01:06 INFO  registerTest:39 - finish test: login()
+2025-08-13 13:01:11 ERROR registerTest:57 - The test failed
+2025-08-13 13:01:11 INFO  registerTest:60 - finshing test : register()
+2025-08-13 13:04:56 INFO  registerTest:39 - finish test: login()
+2025-08-13 13:05:11 ERROR registerTest:57 - The test failed
+2025-08-13 13:05:11 INFO  registerTest:60 - finshing test : register()
+2025-08-13 13:52:03 INFO  registerTest:39 - finish test: login()
+2025-08-13 13:52:17 INFO  registerTest:39 - finish test: login()
+2025-08-13 13:52:29 INFO  registerTest:55 - register test passed successfully
+2025-08-13 13:52:29 INFO  registerTest:60 - finshing test : register()
+2025-08-18 10:59:13 INFO  registerTest:39 - finish test: login()
+2025-08-18 10:59:24 INFO  registerTest:55 - register test passed successfully
+2025-08-18 10:59:24 INFO  registerTest:60 - finshing test : register()
+2025-08-18 11:03:58 INFO  registerTest:39 - finish test: login()
+2025-08-18 11:04:04 INFO  registerTest:55 - register test passed successfully
+2025-08-18 11:04:04 INFO  registerTest:60 - finshing test : register()
+2025-08-18 11:12:37 INFO  registerTest:39 - finish test: login()
+2025-08-18 11:12:47 ERROR registerTest:57 - The test failed
+2025-08-18 11:12:47 INFO  registerTest:60 - finshing test : register()
+2025-08-18 11:12:57 INFO  registerTest:39 - finish test: login()
+2025-08-18 11:13:06 ERROR registerTest:57 - The test failed
+2025-08-18 11:13:06 INFO  registerTest:60 - finshing test : register()
+2025-08-18 11:13:17 INFO  registerTest:39 - finish test: login()
+2025-08-18 11:13:38 ERROR registerTest:57 - The test failed
+2025-08-18 11:13:38 INFO  registerTest:60 - finshing test : register()
+2025-08-18 11:14:18 INFO  registerTest:39 - finish test: login()
+2025-08-18 11:14:27 ERROR registerTest:57 - The test failed
+2025-08-18 11:14:27 INFO  registerTest:60 - finshing test : register()
+2025-08-18 11:14:42 INFO  registerTest:39 - finish test: login()
+2025-08-18 11:15:02 ERROR registerTest:57 - The test failed
+2025-08-18 11:15:02 INFO  registerTest:60 - finshing test : register()
+2025-08-18 11:16:30 INFO  registerTest:39 - finish test: login()
+2025-08-18 11:16:40 ERROR registerTest:57 - The test failed
+2025-08-18 11:16:40 INFO  registerTest:60 - finshing test : register()
+2025-08-18 11:16:51 INFO  registerTest:39 - finish test: login()
+2025-08-18 11:17:12 ERROR registerTest:57 - The test failed
+2025-08-18 11:17:12 INFO  registerTest:60 - finshing test : register()
+2025-08-18 11:35:48 INFO  registerTest:39 - finish test: login()
+2025-08-18 11:36:10 ERROR registerTest:60 - The test failed
+2025-08-18 11:36:10 INFO  registerTest:63 - finshing test : register()
+2025-08-18 11:48:20 INFO  registerTest:39 - finish test: login()
+2025-08-18 11:48:40 ERROR registerTest:64 - The test failed
+2025-08-18 11:48:40 INFO  registerTest:67 - finshing test : register()
+2025-08-18 12:05:41 INFO  registerTest:39 - finish test: login()
+2025-08-18 12:05:45 ERROR registerTest:64 - The test failed
+2025-08-18 12:05:45 INFO  registerTest:67 - finshing test : register()
+2025-08-18 12:06:09 INFO  registerTest:39 - finish test: login()
+2025-08-18 12:06:16 ERROR registerTest:64 - The test failed
+2025-08-18 12:06:16 INFO  registerTest:67 - finshing test : register()
+2025-08-18 12:08:35 INFO  registerTest:39 - finish test: login()
+2025-08-18 12:08:36 ERROR registerTest:64 - The test failed
+2025-08-18 12:08:36 INFO  registerTest:67 - finshing test : register()
+2025-08-18 12:08:50 INFO  registerTest:38 - finish test: login()
+2025-08-18 12:08:55 ERROR registerTest:59 - The test failed
+2025-08-18 12:08:55 INFO  registerTest:62 - finshing test : register()
+2025-08-18 12:28:45 INFO  registerTest:39 - finish test: login()
+2025-08-18 12:28:46 ERROR registerTest:64 - The test failed
+2025-08-18 12:28:46 INFO  registerTest:67 - finshing test : register()
+2025-08-18 12:29:56 INFO  registerTest:39 - finish test: login()
+2025-08-18 12:30:17 ERROR registerTest:64 - The test failed
+2025-08-18 12:30:17 INFO  registerTest:67 - finshing test : register()
+2025-08-18 12:31:13 INFO  registerTest:39 - finish test: login()
+2025-08-18 12:31:34 ERROR registerTest:64 - The test failed
+2025-08-18 12:31:34 INFO  registerTest:67 - finshing test : register()
+2025-08-18 12:32:08 INFO  registerTest:39 - finish test: login()
+2025-08-18 12:32:23 ERROR registerTest:64 - The test failed
+2025-08-18 12:32:23 INFO  registerTest:67 - finshing test : register()
+2025-08-19 11:16:08 INFO  registerTest:39 - finish test: login()
+2025-08-19 11:16:30 ERROR registerTest:64 - The test failed
+2025-08-19 11:16:30 INFO  registerTest:67 - finshing test : register()
+2025-08-19 11:17:00 INFO  registerTest:39 - finish test: login()
+2025-08-19 11:17:08 ERROR registerTest:64 - The test failed
+2025-08-19 11:17:08 INFO  registerTest:67 - finshing test : register()
+2025-08-19 11:17:42 INFO  registerTest:39 - finish test: login()
+2025-08-19 11:17:51 ERROR registerTest:64 - The test failed
+2025-08-19 11:17:51 INFO  registerTest:67 - finshing test : register()
+2025-08-19 11:18:26 INFO  registerTest:35 - finish test: register()
+2025-08-19 11:18:31 ERROR registerTest:49 - The test failed
+2025-08-19 11:18:31 INFO  registerTest:52 - finshing test : register()
+2025-08-19 11:21:52 INFO  registerTest:35 - finish test: register()
+2025-08-19 11:21:59 INFO  registerTest:47 - register test passed successfully
+2025-08-19 11:21:59 INFO  registerTest:52 - finshing test : register()
+2025-08-19 12:20:21 INFO  registerTest:35 - finish test: register()
+2025-08-19 12:20:27 INFO  registerTest:47 - register test passed successfully
+2025-08-19 12:20:27 INFO  registerTest:52 - finshing test : register()
+2025-08-20 10:39:16 INFO  registerTest:35 - finish test: register()
+2025-08-20 10:39:27 INFO  registerTest:47 - register test passed successfully
+2025-08-20 10:39:27 INFO  registerTest:52 - finshing test : register()
+2025-08-20 10:42:38 INFO  registerTest:38 - finish test: login()
+2025-08-20 10:42:56 INFO  registerTest:57 - register test passed successfully
+2025-08-20 10:42:56 INFO  registerTest:62 - finshing test : register()
+2025-08-20 10:43:17 INFO  registerTest:39 - finish test: login()
+2025-08-20 10:43:25 ERROR registerTest:64 - The test failed
+2025-08-20 10:43:25 INFO  registerTest:67 - finshing test : register()
+2025-08-20 10:44:37 INFO  registerTest:39 - finish test: login()
+2025-08-20 10:44:57 ERROR registerTest:64 - The test failed
+2025-08-20 10:44:57 INFO  registerTest:67 - finshing test : register()
+2025-08-20 10:48:28 INFO  registerTest:39 - finish test: login()
+2025-08-20 10:48:37 ERROR registerTest:64 - The test failed
+2025-08-20 10:48:37 INFO  registerTest:67 - finshing test : register()
+2025-08-20 10:49:10 INFO  registerTest:39 - finish test: login()
+2025-08-20 10:49:19 ERROR registerTest:64 - The test failed
+2025-08-20 10:49:19 INFO  registerTest:67 - finshing test : register()
+2025-08-20 10:50:32 INFO  registerTest:39 - finish test: login()
+2025-08-20 10:51:00 ERROR registerTest:64 - The test failed
+2025-08-20 10:51:00 INFO  registerTest:67 - finshing test : register()
+2025-08-20 10:51:22 INFO  registerTest:39 - finish test: login()
+2025-08-20 10:51:29 INFO  registerTest:62 - register test passed successfully
+2025-08-20 10:51:29 INFO  registerTest:67 - finshing test : register()
+2025-08-20 10:52:56 INFO  registerTest:39 - finish test: login()
+2025-08-20 10:53:10 INFO  registerTest:62 - register test passed successfully
+2025-08-20 10:53:10 INFO  registerTest:67 - finshing test : register()
+2025-08-20 10:53:35 INFO  registerTest:39 - finish test: login()
+2025-08-20 10:53:43 ERROR registerTest:64 - The test failed
+2025-08-20 10:53:43 INFO  registerTest:67 - finshing test : register()
+2025-08-20 10:56:12 INFO  registerTest:39 - finish test: login()
+2025-08-20 10:56:20 ERROR registerTest:64 - The test failed
+2025-08-20 10:56:20 INFO  registerTest:67 - finshing test : register()
+2025-08-20 12:09:04 INFO  registerTest:39 - finish test: login()
+2025-08-20 12:09:15 ERROR registerTest:64 - The test failed
+2025-08-20 12:09:15 INFO  registerTest:67 - finshing test : register()
+2025-08-20 12:10:53 INFO  registerTest:39 - finish test: login()
+2025-08-20 12:11:02 ERROR registerTest:64 - The test failed
+2025-08-20 12:11:02 INFO  registerTest:67 - finshing test : register()
+2025-08-20 12:12:07 INFO  registerTest:39 - finish test: login()
+2025-08-20 12:12:18 ERROR registerTest:64 - The test failed
+2025-08-20 12:12:18 INFO  registerTest:67 - finshing test : register()
+2025-08-20 12:14:38 INFO  registerTest:39 - finish test: login()
+2025-08-20 12:14:59 ERROR registerTest:64 - The test failed
+2025-08-20 12:14:59 INFO  registerTest:67 - finshing test : register()
+2025-08-20 12:18:21 INFO  registerTest:39 - finish test: login()
+2025-08-20 12:18:56 ERROR registerTest:64 - The test failed
+2025-08-20 12:18:56 INFO  registerTest:67 - finshing test : register()
+2025-08-20 12:21:20 INFO  registerTest:39 - finish test: login()
+2025-08-20 12:21:49 ERROR registerTest:64 - The test failed
+2025-08-20 12:21:49 INFO  registerTest:67 - finshing test : register()
+2025-08-20 12:24:19 INFO  registerTest:39 - finish test: login()
+2025-08-20 12:24:27 INFO  registerTest:62 - register test passed successfully
+2025-08-20 12:24:27 INFO  registerTest:67 - finshing test : register()
+2025-08-20 12:24:56 INFO  registerTest:39 - finish test: login()
+2025-08-20 12:25:05 ERROR registerTest:64 - The test failed
+2025-08-20 12:25:05 INFO  registerTest:67 - finshing test : register()
+2025-08-20 12:33:56 INFO  registerTest:39 - finish test: login()
+2025-08-20 12:34:29 ERROR registerTest:64 - The test failed
+2025-08-20 12:34:29 INFO  registerTest:67 - finshing test : register()
+2025-08-20 12:35:26 INFO  registerTest:39 - finish test: login()
+2025-08-20 12:35:54 ERROR registerTest:64 - The test failed
+2025-08-20 12:35:54 INFO  registerTest:67 - finshing test : register()
+2025-08-20 12:38:00 INFO  registerTest:39 - finish test: login()
+2025-08-20 12:38:10 ERROR registerTest:64 - The test failed
+2025-08-20 12:38:10 INFO  registerTest:67 - finshing test : register()
+2025-08-20 12:38:46 INFO  registerTest:39 - finish test: login()
+2025-08-20 12:38:56 ERROR registerTest:64 - The test failed
+2025-08-20 12:38:56 INFO  registerTest:67 - finshing test : register()
+2025-08-20 12:40:46 INFO  shopallTest:39 - finish test: login()
+2025-08-20 12:40:58 ERROR shopallTest:64 - The test failed
+2025-08-20 12:40:58 INFO  shopallTest:67 - finshing test : register()
+2025-08-20 12:47:27 INFO  shopallTest:39 - finish test: login()
+2025-08-20 12:48:28 INFO  shopallTest:39 - finish test: login()
+2025-08-20 12:49:17 ERROR shopallTest:64 - The test failed
+2025-08-20 12:49:17 INFO  shopallTest:67 - finshing test : register()
+2025-08-20 12:53:13 INFO  shopallTest:39 - finish test: login()
+2025-08-20 12:53:54 ERROR shopallTest:64 - The test failed
+2025-08-20 12:53:54 INFO  shopallTest:67 - finshing test : register()
+2025-08-20 12:57:56 INFO  shopallTest:39 - finish test: login()
+2025-08-20 12:58:09 INFO  shopallTest:62 - register test passed successfully
+2025-08-20 12:58:09 INFO  shopallTest:67 - finshing test : register()
+2025-08-20 12:58:47 INFO  shopallTest:39 - finish test: login()
+2025-08-20 12:59:08 ERROR shopallTest:64 - The test failed
+2025-08-20 12:59:08 INFO  shopallTest:67 - finshing test : register()
+2025-08-20 13:00:19 INFO  shopallTest:39 - finish test: login()
+2025-08-20 13:00:48 ERROR shopallTest:64 - The test failed
+2025-08-20 13:00:48 INFO  shopallTest:67 - finshing test : register()
+2025-08-20 13:03:37 INFO  shopallTest:39 - finish test: login()
+2025-08-20 13:03:58 ERROR shopallTest:67 - The test failed
+2025-08-20 13:03:58 INFO  shopallTest:70 - finshing test : register()
+2025-08-20 13:04:40 INFO  shopallTest:39 - finish test: login()
+2025-08-20 13:05:15 INFO  shopallTest:65 - register test passed successfully
+2025-08-20 13:05:15 INFO  shopallTest:70 - finshing test : register()
+2025-08-20 13:06:15 INFO  shopallTest:39 - finish test: login()
+2025-08-20 13:06:25 INFO  shopallTest:65 - register test passed successfully
+2025-08-20 13:06:25 INFO  shopallTest:70 - finshing test : register()
+2025-08-21 11:02:00 INFO  shopallTest:39 - finish test: login()
+2025-08-21 11:02:45 ERROR shopallTest:66 - The test failed
+2025-08-21 11:02:45 INFO  shopallTest:69 - finshing test : register()
+2025-08-21 11:03:57 INFO  shopallTest:39 - finish test: login()
+2025-08-21 11:04:05 ERROR shopallTest:66 - The test failed
+2025-08-21 11:04:05 INFO  shopallTest:69 - finshing test : register()
+2025-08-21 11:05:16 INFO  shopallTest:39 - finish test: login()
+2025-08-21 11:05:24 ERROR shopallTest:66 - The test failed
+2025-08-21 11:05:24 INFO  shopallTest:69 - finshing test : register()
+2025-08-21 11:06:05 INFO  shopallTest:39 - finish test: login()
+2025-08-21 11:06:26 ERROR shopallTest:66 - The test failed
+2025-08-21 11:06:26 INFO  shopallTest:69 - finshing test : register()
+2025-08-21 11:06:58 INFO  shopallTest:39 - finish test: login()
+2025-08-21 11:07:05 ERROR shopallTest:66 - The test failed
+2025-08-21 11:07:05 INFO  shopallTest:69 - finshing test : register()
+2025-08-21 11:07:48 INFO  shopallTest:39 - finish test: login()
+2025-08-21 11:08:13 ERROR shopallTest:66 - The test failed
+2025-08-21 11:08:13 INFO  shopallTest:69 - finshing test : register()
+2025-08-21 11:08:45 INFO  shopallTest:39 - finish test: login()
+2025-08-21 11:09:04 INFO  shopallTest:62 - register test passed successfully
+2025-08-21 11:09:04 INFO  shopallTest:67 - finshing test : register()
+2025-08-21 11:10:53 INFO  shopallTest:39 - finish test: login()
+2025-08-21 11:11:03 ERROR shopallTest:64 - The test failed
+2025-08-21 11:11:03 INFO  shopallTest:67 - finshing test : register()
+2025-08-21 11:13:20 INFO  shopallTest:39 - finish test: login()
+2025-08-21 11:13:40 ERROR shopallTest:64 - The test failed
+2025-08-21 11:13:40 INFO  shopallTest:67 - finshing test : register()
+2025-08-21 11:40:10 INFO  shopallTest:39 - finish test: login()
+2025-08-21 11:40:18 ERROR shopallTest:64 - The test failed
+2025-08-21 11:40:18 INFO  shopallTest:67 - finshing test : register()
+2025-08-21 11:41:09 INFO  shopallTest:39 - finish test: login()
+2025-08-21 11:41:28 ERROR shopallTest:64 - The test failed
+2025-08-21 11:41:28 INFO  shopallTest:67 - finshing test : register()
+2025-08-21 11:42:18 INFO  shopallTest:39 - finish test: login()
+2025-08-21 11:42:31 ERROR shopallTest:64 - The test failed
+2025-08-21 11:42:31 INFO  shopallTest:67 - finshing test : register()
+2025-08-21 11:42:58 INFO  shopallTest:39 - finish test: login()
+2025-08-21 11:43:22 ERROR shopallTest:64 - The test failed
+2025-08-21 11:43:22 INFO  shopallTest:67 - finshing test : register()
+2025-08-21 12:03:28 INFO  shopallTest:39 - finish test: login()
+2025-08-21 12:03:39 ERROR shopallTest:64 - The test failed
+2025-08-21 12:03:39 INFO  shopallTest:67 - finshing test : register()
+2025-08-24 11:34:10 INFO  shopallTest:39 - finish test: login()
+2025-08-24 11:34:50 ERROR shopallTest:64 - The test failed
+2025-08-24 11:34:50 INFO  shopallTest:67 - finshing test : register()
+2025-08-24 11:35:17 INFO  shopallTest:39 - finish test: login()
+2025-08-24 11:35:35 ERROR shopallTest:64 - The test failed
+2025-08-24 11:35:35 INFO  shopallTest:67 - finshing test : register()
+2025-08-24 11:37:25 INFO  shopallTest:39 - finish test: login()
+2025-08-24 11:38:06 ERROR shopallTest:64 - The test failed
+2025-08-24 11:38:06 INFO  shopallTest:67 - finshing test : register()
+2025-08-24 11:38:37 INFO  shopallTest:39 - finish test: login()
+2025-08-24 11:38:53 ERROR shopallTest:64 - The test failed
+2025-08-24 11:38:53 INFO  shopallTest:67 - finshing test : register()
+2025-08-24 11:39:03 INFO  shopallTest:39 - finish test: login()
+2025-08-24 11:39:11 ERROR shopallTest:64 - The test failed
+2025-08-24 11:39:11 INFO  shopallTest:67 - finshing test : register()
+2025-08-24 11:39:48 INFO  shopallTest:39 - finish test: login()
+2025-08-24 11:39:55 ERROR shopallTest:64 - The test failed
+2025-08-24 11:39:55 INFO  shopallTest:67 - finshing test : register()
+2025-08-24 11:40:20 INFO  shopallTest:39 - finish test: login()
+2025-08-24 11:40:27 ERROR shopallTest:64 - The test failed
+2025-08-24 11:40:27 INFO  shopallTest:67 - finshing test : register()
+2025-08-24 11:41:38 INFO  shopallTest:39 - finish test: login()
+2025-08-24 11:41:45 INFO  shopallTest:39 - finish test: login()
+2025-08-24 11:42:01 ERROR shopallTest:64 - The test failed
+2025-08-24 11:42:01 INFO  shopallTest:67 - finshing test : register()
+2025-08-24 11:42:25 INFO  shopallTest:39 - finish test: login()
+2025-08-24 11:42:33 ERROR shopallTest:64 - The test failed
+2025-08-24 11:42:33 INFO  shopallTest:67 - finshing test : register()
+2025-08-24 11:42:59 INFO  shopallTest:39 - finish test: login()
+2025-08-24 11:43:06 ERROR shopallTest:64 - The test failed
+2025-08-24 11:43:06 INFO  shopallTest:67 - finshing test : register()
+2025-08-24 11:43:53 INFO  shopallTest:39 - finish test: login()
+2025-08-24 11:44:00 ERROR shopallTest:64 - The test failed
+2025-08-24 11:44:00 INFO  shopallTest:67 - finshing test : register()
+2025-08-24 11:44:36 INFO  shopallTest:39 - finish test: login()
+2025-08-24 11:44:50 INFO  shopallTest:62 - register test passed successfully
+2025-08-24 11:44:50 INFO  shopallTest:67 - finshing test : register()
+2025-08-24 11:54:40 INFO  shopallTest:39 - finish test: login()
+2025-08-24 11:54:48 ERROR shopallTest:64 - The test failed
+2025-08-24 11:54:48 INFO  shopallTest:67 - finshing test : register()
+2025-08-24 11:56:00 INFO  shopallTest:39 - finish test: login()
+2025-08-24 11:56:10 ERROR shopallTest:64 - The test failed
+2025-08-24 11:56:10 INFO  shopallTest:67 - finshing test : register()
+2025-08-24 11:56:40 INFO  shopallTest:39 - finish test: login()
+2025-08-24 11:56:49 ERROR shopallTest:64 - The test failed
+2025-08-24 11:56:49 INFO  shopallTest:67 - finshing test : register()
+2025-08-24 11:57:43 INFO  shopallTest:39 - finish test: login()
+2025-08-24 11:57:51 ERROR shopallTest:64 - The test failed
+2025-08-24 11:57:51 INFO  shopallTest:67 - finshing test : register()
+2025-08-24 12:06:42 INFO  shopallTest:39 - finish test: login()
+2025-08-24 12:06:49 ERROR shopallTest:64 - The test failed
+2025-08-24 12:06:49 INFO  shopallTest:67 - finshing test : register()
+2025-08-24 12:08:07 INFO  shopallTest:39 - finish test: login()
+2025-08-24 12:08:14 ERROR shopallTest:64 - The test failed
+2025-08-24 12:08:14 INFO  shopallTest:67 - finshing test : register()
+2025-08-24 12:09:24 INFO  shopallTest:39 - finish test: login()
+2025-08-24 12:09:31 ERROR shopallTest:64 - The test failed
+2025-08-24 12:09:31 INFO  shopallTest:67 - finshing test : register()
+2025-08-24 12:10:15 INFO  shopallTest:39 - finish test: login()
+2025-08-24 12:10:21 ERROR shopallTest:64 - The test failed
+2025-08-24 12:10:21 INFO  shopallTest:67 - finshing test : register()
+2025-08-24 12:11:22 INFO  shopallTest:39 - finish test: login()
+2025-08-24 12:11:31 ERROR shopallTest:64 - The test failed
+2025-08-24 12:11:31 INFO  shopallTest:67 - finshing test : register()
+2025-08-24 12:22:59 INFO  shopallTest:39 - finish test: login()
+2025-08-24 12:23:07 ERROR shopallTest:64 - The test failed
+2025-08-24 12:23:07 INFO  shopallTest:67 - finshing test : register()
+2025-08-24 12:27:22 INFO  shopallTest:39 - finish test: login()
+2025-08-24 12:27:30 ERROR shopallTest:64 - The test failed
+2025-08-24 12:27:30 INFO  shopallTest:67 - finshing test : register()
+2025-08-24 12:27:31 INFO  shopallTest:39 - finish test: login()
+2025-08-24 12:27:41 ERROR shopallTest:64 - The test failed
+2025-08-24 12:27:41 INFO  shopallTest:67 - finshing test : register()
+2025-08-24 13:03:46 INFO  shopallTest:39 - finish test: login()
+2025-08-24 13:03:56 ERROR shopallTest:65 - The test failed
+2025-08-24 13:03:56 INFO  shopallTest:68 - finshing test : register()
+2025-08-24 13:06:28 INFO  shopallTest:39 - finish test: login()
+2025-08-24 13:06:33 ERROR shopallTest:65 - The test failed
+2025-08-24 13:06:33 INFO  shopallTest:68 - finshing test : register()
+2025-08-24 13:10:13 INFO  shopallTest:39 - finish test: login()
+2025-08-24 13:10:44 ERROR shopallTest:65 - The test failed
+2025-08-24 13:10:44 INFO  shopallTest:68 - finshing test : register()
+2025-08-24 13:11:05 INFO  shopallTest:39 - finish test: login()
+2025-08-24 13:11:17 ERROR shopallTest:65 - The test failed
+2025-08-24 13:11:17 INFO  shopallTest:68 - finshing test : register()
+2025-08-24 13:12:05 INFO  shopallTest:39 - finish test: login()
+2025-08-24 13:12:42 ERROR shopallTest:65 - The test failed
+2025-08-24 13:12:42 INFO  shopallTest:68 - finshing test : register()
+2025-08-24 13:14:32 INFO  shopallTest:39 - finish test: login()
+2025-08-24 13:15:05 ERROR shopallTest:65 - The test failed
+2025-08-24 13:15:05 INFO  shopallTest:68 - finshing test : register()
+2025-08-24 13:15:53 INFO  shopallTest:39 - finish test: login()
+2025-08-24 13:16:34 ERROR shopallTest:65 - The test failed
+2025-08-24 13:16:34 INFO  shopallTest:68 - finshing test : register()
+2025-08-24 13:16:46 INFO  shopallTest:39 - finish test: login()
+2025-08-24 13:17:23 ERROR shopallTest:65 - The test failed
+2025-08-24 13:17:23 INFO  shopallTest:68 - finshing test : register()
+2025-08-24 13:43:38 INFO  shopallTest:39 - finish test: login()
+2025-08-24 13:44:21 ERROR shopallTest:65 - The test failed
+2025-08-24 13:44:21 INFO  shopallTest:68 - finshing test : register()
+2025-08-24 13:44:43 INFO  shopallTest:39 - finish test: login()
+2025-08-24 13:45:20 ERROR shopallTest:65 - The test failed
+2025-08-24 13:45:20 INFO  shopallTest:68 - finshing test : register()
+2025-08-24 13:46:50 INFO  shopallTest:39 - finish test: login()
+2025-08-24 13:47:19 ERROR shopallTest:65 - The test failed
+2025-08-24 13:47:19 INFO  shopallTest:68 - finshing test : register()
+2025-08-24 13:47:30 INFO  shopallTest:39 - finish test: login()
+2025-08-24 13:48:08 ERROR shopallTest:65 - The test failed
+2025-08-24 13:48:08 INFO  shopallTest:68 - finshing test : register()
+2025-08-24 13:50:55 INFO  shopallTest:39 - finish test: login()
+2025-08-24 13:51:32 INFO  shopallTest:39 - finish test: login()
+2025-08-24 13:52:04 ERROR shopallTest:65 - The test failed
+2025-08-24 13:52:04 INFO  shopallTest:68 - finshing test : register()
+2025-08-24 13:55:31 INFO  shopallTest:39 - finish test: login()
+2025-08-24 13:55:57 ERROR shopallTest:65 - The test failed
+2025-08-24 13:55:57 INFO  shopallTest:68 - finshing test : register()
+2025-08-24 13:56:52 INFO  shopallTest:39 - finish test: login()
+2025-08-24 13:57:30 ERROR shopallTest:65 - The test failed
+2025-08-24 13:57:30 INFO  shopallTest:68 - finshing test : register()
+2025-08-24 14:00:10 INFO  shopallTest:39 - finish test: login()
+2025-08-24 14:00:28 ERROR shopallTest:65 - The test failed
+2025-08-24 14:00:28 INFO  shopallTest:68 - finshing test : register()
+2025-08-24 14:00:47 INFO  shopallTest:39 - finish test: login()
+2025-08-24 14:00:55 ERROR shopallTest:65 - The test failed
+2025-08-24 14:00:55 INFO  shopallTest:68 - finshing test : register()
+2025-08-24 14:04:20 INFO  shopallTest:39 - finish test: login()
+2025-08-24 14:04:32 ERROR shopallTest:65 - The test failed
+2025-08-24 14:04:32 INFO  shopallTest:68 - finshing test : register()
+2025-08-24 14:35:40 INFO  shopallTest:39 - finish test: login()
+2025-08-24 14:35:49 ERROR shopallTest:65 - The test failed
+2025-08-24 14:35:49 INFO  shopallTest:68 - finshing test : register()
+2025-08-24 14:38:16 INFO  shopallTest:39 - finish test: login()
+2025-08-24 14:38:46 ERROR shopallTest:65 - The test failed
+2025-08-24 14:38:46 INFO  shopallTest:68 - finshing test : register()
+2025-08-24 14:38:57 INFO  shopallTest:39 - finish test: login()
+2025-08-24 14:39:07 ERROR shopallTest:65 - The test failed
+2025-08-24 14:39:07 INFO  shopallTest:68 - finshing test : register()
+2025-08-24 14:40:01 INFO  shopallTest:39 - finish test: login()
+2025-08-24 14:40:11 ERROR shopallTest:65 - The test failed
+2025-08-24 14:40:11 INFO  shopallTest:68 - finshing test : register()
+2025-08-24 14:40:40 INFO  shopallTest:39 - finish test: login()
+2025-08-24 14:40:48 ERROR shopallTest:65 - The test failed
+2025-08-24 14:40:48 INFO  shopallTest:68 - finshing test : register()
+2025-08-24 14:41:12 INFO  shopallTest:39 - finish test: login()
+2025-08-24 14:41:19 ERROR shopallTest:65 - The test failed
+2025-08-24 14:41:19 INFO  shopallTest:68 - finshing test : register()
+2025-08-24 14:44:31 INFO  shopallTest:39 - finish test: login()
+2025-08-24 14:44:40 ERROR shopallTest:67 - The test failed
+2025-08-24 14:44:40 INFO  shopallTest:70 - finshing test : register()
+2025-08-25 11:42:47 INFO  shopallTest:39 - finish test: login()
+2025-08-25 11:42:58 ERROR shopallTest:67 - The test failed
+2025-08-25 11:42:58 INFO  shopallTest:70 - finshing test : register()
+2025-08-25 11:43:32 INFO  shopallTest:39 - finish test: login()
+2025-08-25 11:43:44 ERROR shopallTest:67 - The test failed
+2025-08-25 11:43:44 INFO  shopallTest:70 - finshing test : register()
+2025-08-25 11:44:55 INFO  shopallTest:39 - finish test: login()
+2025-08-25 11:45:25 ERROR shopallTest:67 - The test failed
+2025-08-25 11:45:25 INFO  shopallTest:70 - finshing test : register()
+2025-08-25 11:45:40 INFO  shopallTest:39 - finish test: login()
+2025-08-25 11:45:49 ERROR shopallTest:67 - The test failed
+2025-08-25 11:45:49 INFO  shopallTest:70 - finshing test : register()
+2025-08-25 11:47:50 INFO  shopallTest:39 - finish test: login()
+2025-08-25 11:47:59 ERROR shopallTest:67 - The test failed
+2025-08-25 11:47:59 INFO  shopallTest:70 - finshing test : register()
+2025-08-25 11:48:25 INFO  shopallTest:39 - finish test: login()
+2025-08-25 11:48:32 ERROR shopallTest:67 - The test failed
+2025-08-25 11:48:32 INFO  shopallTest:70 - finshing test : register()
+2025-08-25 11:55:50 INFO  shopallTest:39 - finish test: login()
+2025-08-25 11:55:59 ERROR shopallTest:67 - The test failed
+2025-08-25 11:55:59 INFO  shopallTest:70 - finshing test : register()
+2025-08-25 11:57:42 INFO  shopallTest:39 - finish test: login()
+2025-08-25 11:57:50 ERROR shopallTest:67 - The test failed
+2025-08-25 11:57:50 INFO  shopallTest:70 - finshing test : register()
+2025-08-25 11:58:27 INFO  shopallTest:39 - finish test: login()
+2025-08-25 11:58:36 ERROR shopallTest:67 - The test failed
+2025-08-25 11:58:36 INFO  shopallTest:70 - finshing test : register()
+2025-08-25 11:59:31 INFO  shopallTest:39 - finish test: login()
+2025-08-25 11:59:39 ERROR shopallTest:67 - The test failed
+2025-08-25 11:59:39 INFO  shopallTest:70 - finshing test : register()
+2025-08-25 12:04:56 INFO  shopallTest:39 - finish test: login()
+2025-08-25 12:05:07 ERROR shopallTest:67 - The test failed
+2025-08-25 12:05:07 INFO  shopallTest:70 - finshing test : register()
+2025-08-25 12:06:01 INFO  shopallTest:39 - finish test: login()
+2025-08-25 12:06:11 ERROR shopallTest:67 - The test failed
+2025-08-25 12:06:11 INFO  shopallTest:70 - finshing test : register()
+2025-08-25 12:18:38 INFO  shopallTest:39 - finish test: login()
+2025-08-25 12:18:49 ERROR shopallTest:67 - The test failed
+2025-08-25 12:18:49 INFO  shopallTest:70 - finshing test : register()
+2025-08-25 12:19:01 INFO  shopallTest:39 - finish test: login()
+2025-08-25 12:19:10 ERROR shopallTest:67 - The test failed
+2025-08-25 12:19:10 INFO  shopallTest:70 - finshing test : register()
+2025-08-25 12:19:26 INFO  shopallTest:39 - finish test: login()
+2025-08-25 12:19:35 ERROR shopallTest:67 - The test failed
+2025-08-25 12:19:35 INFO  shopallTest:70 - finshing test : register()
+2025-08-25 12:19:56 INFO  shopallTest:39 - finish test: login()
+2025-08-25 12:20:05 ERROR shopallTest:67 - The test failed
+2025-08-25 12:20:05 INFO  shopallTest:70 - finshing test : register()
+2025-08-27 10:20:07 INFO  shopallTest:39 - finish test: login()
+2025-08-27 10:20:17 ERROR shopallTest:67 - The test failed
+2025-08-27 10:20:17 INFO  shopallTest:70 - finshing test : register()
+2025-08-27 10:21:00 INFO  shopallTest:39 - finish test: login()
+2025-08-27 10:21:08 ERROR shopallTest:67 - The test failed
+2025-08-27 10:21:08 INFO  shopallTest:70 - finshing test : register()
+2025-08-27 10:26:25 INFO  shopallTest:39 - finish test: login()
+2025-08-27 10:27:32 INFO  shopallTest:39 - finish test: login()
+2025-08-27 10:27:41 ERROR shopallTest:67 - The test failed
+2025-08-27 10:27:41 INFO  shopallTest:70 - finshing test : register()
+2025-08-27 10:28:13 INFO  shopallTest:39 - finish test: login()
+2025-08-27 10:28:23 ERROR shopallTest:67 - The test failed
+2025-08-27 10:28:23 INFO  shopallTest:70 - finshing test : register()
+2025-08-27 11:58:41 INFO  shopallTest:39 - finish test: login()
+2025-08-27 11:58:51 ERROR shopallTest:67 - The test failed
+2025-08-27 11:58:51 INFO  shopallTest:70 - finshing test : register()
+2025-08-27 11:59:46 INFO  shopallTest:39 - finish test: login()
+2025-08-27 12:00:18 ERROR shopallTest:67 - The test failed
+2025-08-27 12:00:18 INFO  shopallTest:70 - finshing test : register()
+2025-08-27 12:03:21 INFO  shopallTest:39 - finish test: login()
+2025-08-27 12:03:29 ERROR shopallTest:67 - The test failed
+2025-08-27 12:03:29 INFO  shopallTest:70 - finshing test : register()
+2025-08-27 12:03:43 INFO  shopallTest:39 - finish test: login()
+2025-08-27 12:03:50 ERROR shopallTest:67 - The test failed
+2025-08-27 12:03:50 INFO  shopallTest:70 - finshing test : register()
+2025-08-27 12:04:29 INFO  shopallTest:39 - finish test: login()
+2025-08-27 12:04:39 ERROR shopallTest:67 - The test failed
+2025-08-27 12:04:39 INFO  shopallTest:70 - finshing test : register()
+2025-08-27 12:04:58 INFO  shopallTest:39 - finish test: login()
+2025-08-27 12:05:06 ERROR shopallTest:67 - The test failed
+2025-08-27 12:05:06 INFO  shopallTest:70 - finshing test : register()
+2025-08-27 12:08:59 INFO  shopallTest:39 - finish test: login()
+2025-08-27 12:09:08 ERROR shopallTest:67 - The test failed
+2025-08-27 12:09:08 INFO  shopallTest:70 - finshing test : register()
+2025-08-27 12:10:35 INFO  shopallTest:39 - finish test: login()
+2025-08-27 12:10:43 ERROR shopallTest:67 - The test failed
+2025-08-27 12:10:43 INFO  shopallTest:70 - finshing test : register()
+2025-08-27 12:29:46 INFO  shopallTest:39 - finish test: login()
+2025-08-27 12:29:54 ERROR shopallTest:67 - The test failed
+2025-08-27 12:29:54 INFO  shopallTest:70 - finshing test : register()
+2025-08-27 12:46:29 INFO  shopallTest:39 - finish test: login()
+2025-08-27 12:47:28 INFO  shopallTest:39 - finish test: login()
+2025-08-27 12:48:18 INFO  shopallTest:39 - finish test: login()
+2025-08-27 12:48:31 ERROR shopallTest:67 - The test failed
+2025-08-27 12:48:31 INFO  shopallTest:70 - finshing test : register()
+2025-08-27 12:49:38 INFO  shopallTest:39 - finish test: login()
+2025-08-27 12:50:07 ERROR shopallTest:67 - The test failed
+2025-08-27 12:50:07 INFO  shopallTest:70 - finshing test : register()
+2025-08-27 12:53:48 INFO  shopallTest:39 - finish test: login()
+2025-08-27 12:54:04 INFO  shopallTest:39 - finish test: login()
+2025-08-27 12:54:28 ERROR shopallTest:67 - The test failed
+2025-08-27 12:54:28 INFO  shopallTest:70 - finshing test : register()
+2025-08-27 12:55:30 INFO  shopallTest:39 - finish test: login()
+2025-08-27 12:57:49 INFO  shopallTest:39 - finish test: login()
+2025-08-27 13:00:25 INFO  shopallTest:39 - finish test: login()
+2025-08-27 13:00:43 INFO  shopallTest:39 - finish test: login()
+2025-08-27 13:00:51 ERROR shopallTest:67 - The test failed
+2025-08-27 13:00:51 INFO  shopallTest:70 - finshing test : register()
+2025-08-27 13:07:13 INFO  shopallTest:39 - finish test: login()
+2025-08-27 13:07:30 ERROR shopallTest:67 - The test failed
+2025-08-27 13:07:30 INFO  shopallTest:70 - finshing test : register()
+2025-08-27 13:08:31 INFO  shopallTest:39 - finish test: login()
+2025-08-27 13:09:05 ERROR shopallTest:67 - The test failed
+2025-08-27 13:09:05 INFO  shopallTest:70 - finshing test : register()
+2025-08-27 13:09:20 INFO  shopallTest:39 - finish test: login()
+2025-08-27 13:09:29 ERROR shopallTest:67 - The test failed
+2025-08-27 13:09:29 INFO  shopallTest:70 - finshing test : register()
+2025-08-27 13:23:13 INFO  shopallTest:39 - finish test: login()
+2025-08-27 13:23:43 ERROR shopallTest:67 - The test failed
+2025-08-27 13:23:43 INFO  shopallTest:70 - finshing test : register()
+2025-08-27 13:24:57 INFO  shopallTest:39 - finish test: login()
+2025-08-27 13:25:14 ERROR shopallTest:67 - The test failed
+2025-08-27 13:25:14 INFO  shopallTest:70 - finshing test : register()
+2025-08-27 13:26:17 INFO  shopallTest:39 - finish test: login()
+2025-08-27 13:26:55 ERROR shopallTest:67 - The test failed
+2025-08-27 13:26:55 INFO  shopallTest:70 - finshing test : register()
+2025-09-01 14:07:12 INFO  shopallTest:39 - finish test: login()
+2025-09-01 14:07:57 ERROR shopallTest:67 - The test failed
+2025-09-01 14:07:57 INFO  shopallTest:70 - finshing test : register()
+2025-09-01 14:34:46 INFO  shopallTest:39 - finish test: login()
+2025-09-01 14:35:08 ERROR shopallTest:64 - The test failed
+2025-09-01 14:35:08 INFO  shopallTest:67 - finshing test : register()
+2025-09-01 14:35:25 INFO  shopallTest:39 - finish test: login()
+2025-09-01 14:35:56 ERROR shopallTest:64 - The test failed
+2025-09-01 14:35:56 INFO  shopallTest:67 - finshing test : register()
+2025-09-02 10:44:15 INFO  shopallTest:39 - finish test: login()
+2025-09-02 10:44:30 INFO  shopallTest:62 - register test passed successfully
+2025-09-02 10:44:30 INFO  shopallTest:67 - finshing test : register()
+2025-09-02 10:57:50 INFO  shopallTest:39 - finish test: login()
+2025-09-02 10:58:31 ERROR shopallTest:67 - The test failed
+2025-09-02 10:58:31 INFO  shopallTest:70 - finshing test : register()
+2025-09-02 10:59:06 INFO  shopallTest:39 - finish test: login()
+2025-09-02 10:59:23 INFO  shopallTest:39 - finish test: login()
+2025-09-02 11:00:02 INFO  shopallTest:39 - finish test: login()
+2025-09-02 11:00:24 ERROR shopallTest:67 - The test failed
+2025-09-02 11:00:24 INFO  shopallTest:70 - finshing test : register()
+2025-09-02 11:03:02 INFO  shopallTest:39 - finish test: login()
+2025-09-02 11:03:23 ERROR shopallTest:67 - The test failed
+2025-09-02 11:03:23 INFO  shopallTest:70 - finshing test : register()
+2025-09-02 11:08:58 INFO  shopallTest:39 - finish test: login()
+2025-09-02 11:09:08 ERROR shopallTest:67 - The test failed
+2025-09-02 11:09:08 INFO  shopallTest:70 - finshing test : register()
+2025-09-02 11:12:12 INFO  shopallTest:39 - finish test: login()
+2025-09-02 11:12:46 ERROR shopallTest:67 - The test failed
+2025-09-02 11:12:46 INFO  shopallTest:70 - finshing test : register()
+2025-09-02 11:13:03 INFO  shopallTest:39 - finish test: login()
+2025-09-02 11:13:12 ERROR shopallTest:67 - The test failed
+2025-09-02 11:13:12 INFO  shopallTest:70 - finshing test : register()
+2025-09-02 11:13:36 INFO  shopallTest:39 - finish test: login()
+2025-09-02 11:13:44 ERROR shopallTest:67 - The test failed
+2025-09-02 11:13:44 INFO  shopallTest:70 - finshing test : register()
+2025-09-02 11:14:15 INFO  shopallTest:39 - finish test: login()
+2025-09-02 11:14:48 ERROR shopallTest:67 - The test failed
+2025-09-02 11:14:48 INFO  shopallTest:70 - finshing test : register()
+2025-09-02 11:15:10 INFO  shopallTest:39 - finish test: login()
+2025-09-02 11:15:17 ERROR shopallTest:67 - The test failed
+2025-09-02 11:15:17 INFO  shopallTest:70 - finshing test : register()
+2025-09-02 11:19:12 INFO  shopallTest:39 - finish test: login()
+2025-09-02 11:19:21 INFO  shopallTest:39 - finish test: login()
+2025-09-02 11:19:37 ERROR shopallTest:67 - The test failed
+2025-09-02 11:19:37 INFO  shopallTest:70 - finshing test : register()
+2025-09-02 11:19:39 ERROR shopallTest:67 - The test failed
+2025-09-02 11:19:39 INFO  shopallTest:70 - finshing test : register()
+2025-09-02 11:19:51 INFO  shopallTest:39 - finish test: login()
+2025-09-02 11:19:58 ERROR shopallTest:67 - The test failed
+2025-09-02 11:19:58 INFO  shopallTest:70 - finshing test : register()
+2025-09-02 11:22:02 INFO  shopallTest:39 - finish test: login()
+2025-09-02 11:22:12 ERROR shopallTest:67 - The test failed
+2025-09-02 11:22:12 INFO  shopallTest:70 - finshing test : register()
+2025-09-02 11:22:43 INFO  shopallTest:39 - finish test: login()
+2025-09-02 11:23:22 INFO  shopallTest:65 - register test passed successfully
+2025-09-02 11:23:22 INFO  shopallTest:70 - finshing test : register()
+2025-09-02 11:23:41 INFO  shopallTest:39 - finish test: login()
+2025-09-02 11:24:08 ERROR shopallTest:67 - The test failed
+2025-09-02 11:24:08 INFO  shopallTest:70 - finshing test : register()
+2025-09-02 11:24:35 INFO  shopallTest:39 - finish test: login()
+2025-09-02 11:24:44 ERROR shopallTest:67 - The test failed
+2025-09-02 11:24:44 INFO  shopallTest:70 - finshing test : register()
+2025-09-02 11:25:13 INFO  shopallTest:39 - finish test: login()
+2025-09-02 11:26:00 ERROR shopallTest:67 - The test failed
+2025-09-02 11:26:00 INFO  shopallTest:70 - finshing test : register()
+2025-09-02 11:26:17 INFO  shopallTest:39 - finish test: login()
+2025-09-02 11:26:53 INFO  shopallTest:39 - finish test: login()
+2025-09-02 11:26:56 ERROR shopallTest:67 - The test failed
+2025-09-02 11:26:56 INFO  shopallTest:70 - finshing test : register()
+2025-09-02 11:27:34 ERROR shopallTest:67 - The test failed
+2025-09-02 11:27:34 INFO  shopallTest:70 - finshing test : register()
+2025-09-02 11:28:03 INFO  shopallTest:39 - finish test: login()
+2025-09-02 11:28:21 INFO  shopallTest:65 - register test passed successfully
+2025-09-02 11:28:21 INFO  shopallTest:70 - finshing test : register()
+2025-09-02 11:36:28 INFO  shopallTest:39 - finish test: login()
+2025-09-02 11:36:46 INFO  shopallTest:65 - register test passed successfully
+2025-09-02 11:36:46 INFO  shopallTest:70 - finshing test : register()
+2025-09-02 11:39:57 INFO  shopallTest:39 - finish test: login()
+2025-09-02 11:40:24 ERROR shopallTest:67 - The test failed
+2025-09-02 11:40:24 INFO  shopallTest:70 - finshing test : register()
+2025-09-02 11:40:39 INFO  shopallTest:39 - finish test: login()
+2025-09-02 11:40:40 INFO  shopallTest:39 - finish test: login()
+2025-09-02 11:40:48 ERROR shopallTest:67 - The test failed
+2025-09-02 11:40:48 INFO  shopallTest:70 - finshing test : register()
+2025-09-02 11:41:08 ERROR shopallTest:67 - The test failed
+2025-09-02 11:41:08 INFO  shopallTest:70 - finshing test : register()
+2025-09-02 11:41:55 INFO  shopallTest:39 - finish test: login()
+2025-09-02 11:42:12 INFO  shopallTest:65 - register test passed successfully
+2025-09-02 11:42:12 INFO  shopallTest:70 - finshing test : register()
+2025-09-02 12:42:27 INFO  shopallTest:40 - finish test: login()
+2025-09-02 12:43:04 ERROR shopallTest:65 - The test failed
+2025-09-02 12:43:04 INFO  shopallTest:68 - finshing test : register()
+2025-09-02 12:43:24 INFO  shopallTest:40 - finish test: login()
+2025-09-02 12:43:25 INFO  shopallTest:40 - finish test: login()
+2025-09-02 12:43:38 ERROR shopallTest:65 - The test failed
+2025-09-02 12:43:38 INFO  shopallTest:68 - finshing test : register()
+2025-09-02 12:43:45 ERROR shopallTest:65 - The test failed
+2025-09-02 12:43:45 INFO  shopallTest:68 - finshing test : register()
+2025-09-02 12:45:28 INFO  shopallTest:40 - finish test: login()
+2025-09-02 12:45:36 ERROR shopallTest:65 - The test failed
+2025-09-02 12:45:36 INFO  shopallTest:68 - finshing test : register()
+2025-09-02 12:45:47 INFO  shopallTest:40 - finish test: login()
+2025-09-02 12:46:03 ERROR shopallTest:65 - The test failed
+2025-09-02 12:46:03 INFO  shopallTest:68 - finshing test : register()
+2025-09-02 12:46:13 INFO  shopallTest:40 - finish test: login()
+2025-09-02 12:46:46 ERROR shopallTest:65 - The test failed
+2025-09-02 12:46:46 INFO  shopallTest:68 - finshing test : register()
+2025-09-02 12:46:57 INFO  shopallTest:40 - finish test: login()
+2025-09-02 12:47:05 ERROR shopallTest:65 - The test failed
+2025-09-02 12:47:05 INFO  shopallTest:68 - finshing test : register()
+2025-09-02 12:47:17 INFO  shopallTest:40 - finish test: login()
+2025-09-02 12:47:24 ERROR shopallTest:65 - The test failed
+2025-09-02 12:47:24 INFO  shopallTest:68 - finshing test : register()
+2025-09-02 12:48:33 INFO  shopallTest:40 - finish test: login()
+2025-09-02 12:48:42 ERROR shopallTest:65 - The test failed
+2025-09-02 12:48:42 INFO  shopallTest:68 - finshing test : register()
+2025-09-02 12:59:27 INFO  shopallTest:40 - finish test: login()
+2025-09-02 12:59:35 ERROR shopallTest:65 - The test failed
+2025-09-02 12:59:35 INFO  shopallTest:68 - finshing test : register()
+2025-09-02 12:59:50 INFO  shopallTest:40 - finish test: login()
+2025-09-02 12:59:58 ERROR shopallTest:65 - The test failed
+2025-09-02 12:59:58 INFO  shopallTest:68 - finshing test : register()
+2025-09-02 13:00:10 INFO  shopallTest:40 - finish test: login()
+2025-09-02 13:00:18 ERROR shopallTest:65 - The test failed
+2025-09-02 13:00:18 INFO  shopallTest:68 - finshing test : register()
+2025-09-02 13:00:26 INFO  shopallTest:40 - finish test: login()
+2025-09-02 13:00:34 ERROR shopallTest:65 - The test failed
+2025-09-02 13:00:34 INFO  shopallTest:68 - finshing test : register()
+2025-09-02 13:01:14 INFO  shopallTest:40 - finish test: login()
+2025-09-02 13:01:22 ERROR shopallTest:65 - The test failed
+2025-09-02 13:01:22 INFO  shopallTest:68 - finshing test : register()
+2025-09-02 13:01:53 INFO  shopallTest:40 - finish test: login()
+2025-09-02 13:02:00 ERROR shopallTest:65 - The test failed
+2025-09-02 13:02:00 INFO  shopallTest:68 - finshing test : register()
+2025-09-02 13:02:22 INFO  shopallTest:40 - finish test: login()
+2025-09-02 13:02:30 ERROR shopallTest:65 - The test failed
+2025-09-02 13:02:30 INFO  shopallTest:68 - finshing test : register()
+2025-09-02 13:03:54 INFO  shopallTest:40 - finish test: login()
+2025-09-02 13:04:04 ERROR shopallTest:65 - The test failed
+2025-09-02 13:04:04 INFO  shopallTest:68 - finshing test : register()
+2025-09-02 13:04:54 INFO  shopallTest:39 - finish test: login()
+2025-09-02 13:05:13 INFO  shopallTest:65 - register test passed successfully
+2025-09-02 13:05:13 INFO  shopallTest:70 - finshing test : register()
+2025-09-02 13:09:09 INFO  shopallTest:40 - finish test: login()
+2025-09-02 13:09:17 ERROR shopallTest:65 - The test failed
+2025-09-02 13:09:17 INFO  shopallTest:68 - finshing test : register()
+2025-09-02 13:16:10 INFO  shopallTest:40 - finish test: login()
+2025-09-02 13:16:21 ERROR shopallTest:65 - The test failed
+2025-09-02 13:16:21 INFO  shopallTest:68 - finshing test : register()
+2025-09-02 13:19:39 INFO  shopallTest:40 - finish test: login()
+2025-09-02 13:19:47 ERROR shopallTest:65 - The test failed
+2025-09-02 13:19:47 INFO  shopallTest:68 - finshing test : register()
+2025-09-03 10:56:57 INFO  shopallTest:40 - finish test: login()
+2025-09-03 10:57:10 ERROR shopallTest:65 - The test failed
+2025-09-03 10:57:10 INFO  shopallTest:68 - finshing test : register()
+2025-09-03 10:59:31 INFO  shopallTest:40 - finish test: login()
+2025-09-03 10:59:39 ERROR shopallTest:65 - The test failed
+2025-09-03 10:59:39 INFO  shopallTest:68 - finshing test : register()
+2025-09-03 11:00:06 INFO  shopallTest:40 - finish test: login()
+2025-09-03 11:00:14 ERROR shopallTest:65 - The test failed
+2025-09-03 11:00:14 INFO  shopallTest:68 - finshing test : register()
+2025-09-03 11:01:38 INFO  shopallTest:40 - finish test: login()
+2025-09-03 11:01:58 INFO  shopallTest:40 - finish test: login()
+2025-09-03 11:02:49 ERROR shopallTest:65 - The test failed
+2025-09-03 11:02:49 INFO  shopallTest:68 - finshing test : register()
+2025-09-03 11:03:07 INFO  shopallTest:40 - finish test: login()
+2025-09-03 11:03:15 INFO  shopallTest:40 - finish test: login()
+2025-09-03 11:03:20 ERROR shopallTest:65 - The test failed
+2025-09-03 11:03:20 INFO  shopallTest:68 - finshing test : register()
+2025-09-03 11:03:33 ERROR shopallTest:65 - The test failed
+2025-09-03 11:03:33 INFO  shopallTest:68 - finshing test : register()
+2025-09-03 11:04:24 INFO  shopallTest:40 - finish test: login()
+2025-09-03 11:04:32 ERROR shopallTest:65 - The test failed
+2025-09-03 11:04:32 INFO  shopallTest:68 - finshing test : register()
+2025-09-03 11:14:48 INFO  shopallTest:40 - finish test: login()
+2025-09-03 11:14:57 ERROR shopallTest:65 - The test failed
+2025-09-03 11:14:57 INFO  shopallTest:68 - finshing test : register()
+2025-09-03 11:15:30 INFO  shopallTest:40 - finish test: login()
+2025-09-03 11:15:37 ERROR shopallTest:65 - The test failed
+2025-09-03 11:15:37 INFO  shopallTest:68 - finshing test : register()
+2025-09-03 11:16:37 INFO  shopallTest:40 - finish test: login()
+2025-09-03 11:16:44 ERROR shopallTest:65 - The test failed
+2025-09-03 11:16:44 INFO  shopallTest:68 - finshing test : register()
+2025-09-06 09:55:26 INFO  shopallTest:40 - finish test: login()
+2025-09-06 09:55:50 ERROR shopallTest:65 - The test failed
+2025-09-06 09:55:50 INFO  shopallTest:68 - finshing test : register()
+2025-09-06 09:56:02 INFO  shopallTest:40 - finish test: login()
+2025-09-06 09:56:34 ERROR shopallTest:65 - The test failed
+2025-09-06 09:56:34 INFO  shopallTest:68 - finshing test : register()
+2025-09-06 09:57:02 INFO  shopallTest:40 - finish test: login()
+2025-09-06 09:57:35 ERROR shopallTest:65 - The test failed
+2025-09-06 09:57:35 INFO  shopallTest:68 - finshing test : register()
+2025-09-06 09:57:58 INFO  shopallTest:40 - finish test: login()
+2025-09-06 09:58:30 ERROR shopallTest:65 - The test failed
+2025-09-06 09:58:30 INFO  shopallTest:68 - finshing test : register()
+2025-09-06 09:58:53 INFO  shopallTest:40 - finish test: login()
+2025-09-06 09:59:02 ERROR shopallTest:65 - The test failed
+2025-09-06 09:59:02 INFO  shopallTest:68 - finshing test : register()
+2025-09-06 09:59:25 INFO  shopallTest:40 - finish test: login()
+2025-09-06 09:59:30 ERROR shopallTest:65 - The test failed
+2025-09-06 09:59:30 INFO  shopallTest:68 - finshing test : register()
+2025-09-06 10:05:05 INFO  shopallTest:40 - finish test: login()
+2025-09-06 10:05:29 ERROR shopallTest:65 - The test failed
+2025-09-06 10:05:29 INFO  shopallTest:68 - finshing test : register()
+2025-09-06 10:06:13 INFO  shopallTest:39 - finish test: login()
+2025-09-06 10:06:43 ERROR shopallTest:67 - The test failed
+2025-09-06 10:06:43 INFO  shopallTest:70 - finshing test : register()
+2025-09-06 10:09:01 INFO  shopallTest:39 - finish test: login()
+2025-09-06 10:09:15 ERROR shopallTest:67 - The test failed
+2025-09-06 10:09:15 INFO  shopallTest:70 - finshing test : register()
+2025-09-06 10:09:34 INFO  shopallTest:40 - finish test: login()
+2025-09-06 10:10:28 ERROR shopallTest:65 - The test failed
+2025-09-06 10:10:28 INFO  shopallTest:68 - finshing test : register()
+2025-09-06 10:13:23 INFO  shopallTest:40 - finish test: login()
+2025-09-06 10:13:38 ERROR shopallTest:65 - The test failed
+2025-09-06 10:13:38 INFO  shopallTest:68 - finshing test : register()
+2025-09-06 10:14:27 INFO  shopallTest:40 - finish test: login()
+2025-09-06 10:14:57 ERROR shopallTest:65 - The test failed
+2025-09-06 10:14:57 INFO  shopallTest:68 - finshing test : register()
+2025-09-06 10:18:11 INFO  shopallTest:40 - finish test: login()
+2025-09-06 10:18:27 ERROR shopallTest:65 - The test failed
+2025-09-06 10:18:27 INFO  shopallTest:68 - finshing test : register()
+2025-09-06 10:19:05 INFO  shopallTest:40 - finish test: login()
+2025-09-06 10:19:13 ERROR shopallTest:65 - The test failed
+2025-09-06 10:19:13 INFO  shopallTest:68 - finshing test : register()
+2025-09-06 10:23:20 INFO  shopallTest:40 - finish test: login()
+2025-09-06 10:23:26 ERROR shopallTest:65 - The test failed
+2025-09-06 10:23:26 INFO  shopallTest:68 - finshing test : register()
+2025-09-06 10:23:51 INFO  shopallTest:40 - finish test: login()
+2025-09-06 10:23:57 ERROR shopallTest:65 - The test failed
+2025-09-06 10:23:57 INFO  shopallTest:68 - finshing test : register()
+2025-09-06 11:06:35 INFO  shopallTest:39 - finish test: login()
+2025-09-06 11:07:13 ERROR shopallTest:67 - The test failed
+2025-09-06 11:07:13 INFO  shopallTest:70 - finshing test : register()
+2025-09-06 11:08:24 INFO  shopallTest:39 - finish test: login()
+2025-09-06 11:08:33 ERROR shopallTest:67 - The test failed
+2025-09-06 11:08:33 INFO  shopallTest:70 - finshing test : register()
+2025-09-06 11:09:18 INFO  shopallTest:39 - finish test: login()
+2025-09-06 11:09:31 ERROR shopallTest:67 - The test failed
+2025-09-06 11:09:31 INFO  shopallTest:70 - finshing test : register()
+2025-09-06 11:12:24 INFO  shopallTest:39 - finish test: login()
+2025-09-06 11:12:52 INFO  shopallTest:65 - register test passed successfully
+2025-09-06 11:12:52 INFO  shopallTest:70 - finshing test : register()
+2025-09-06 11:17:35 INFO  shopallTest:40 - finish test: login()
+2025-09-06 11:17:45 ERROR shopallTest:65 - The test failed
+2025-09-06 11:17:45 INFO  shopallTest:68 - finshing test : register()
+2025-09-06 11:18:41 INFO  shopallTest:40 - finish test: login()
+2025-09-06 11:18:51 ERROR shopallTest:65 - The test failed
+2025-09-06 11:18:51 INFO  shopallTest:68 - finshing test : register()
+2025-09-06 11:22:22 INFO  shopallTest:40 - finish test: login()
+2025-09-06 11:22:30 ERROR shopallTest:65 - The test failed
+2025-09-06 11:22:30 INFO  shopallTest:68 - finshing test : register()
+2025-09-06 11:24:24 INFO  shopallTest:40 - finish test: login()
+2025-09-06 11:24:52 ERROR shopallTest:65 - The test failed
+2025-09-06 11:24:52 INFO  shopallTest:68 - finshing test : register()
+2025-09-06 11:25:56 INFO  shopallTest:40 - finish test: login()
+2025-09-06 11:27:34 INFO  shopallTest:40 - finish test: login()
+2025-09-06 11:27:49 ERROR shopallTest:65 - The test failed
+2025-09-06 11:27:49 INFO  shopallTest:68 - finshing test : register()
+2025-09-06 11:28:18 INFO  shopallTest:40 - finish test: login()
+2025-09-06 11:28:34 INFO  shopallTest:63 - register test passed successfully
+2025-09-06 11:28:34 INFO  shopallTest:68 - finshing test : register()
+2025-09-06 11:44:51 INFO  shopallTest:39 - finish test: login()
+2025-09-06 11:45:11 ERROR shopallTest:65 - The test failed
+2025-09-06 11:45:11 INFO  shopallTest:68 - finshing test : register()
+2025-09-06 11:45:55 INFO  shopallTest:39 - finish test: login()
+2025-09-06 11:46:03 ERROR shopallTest:64 - The test failed
+2025-09-06 11:46:03 INFO  shopallTest:67 - finshing test : register()
+2025-09-06 11:46:32 INFO  shopallTest:39 - finish test: login()
+2025-09-06 11:46:39 ERROR shopallTest:64 - The test failed
+2025-09-06 11:46:39 INFO  shopallTest:67 - finshing test : register()
+2025-09-06 11:46:54 INFO  shopallTest:39 - finish test: login()
+2025-09-06 11:47:24 ERROR shopallTest:64 - The test failed
+2025-09-06 11:47:24 INFO  shopallTest:67 - finshing test : register()
+2025-09-06 11:47:39 INFO  shopallTest:39 - finish test: login()
+2025-09-06 11:48:00 ERROR shopallTest:64 - The test failed
+2025-09-06 11:48:00 INFO  shopallTest:67 - finshing test : register()
+2025-09-06 11:57:18 INFO  shopallTest:39 - finish test: login()
+2025-09-06 11:57:27 ERROR shopallTest:64 - The test failed
+2025-09-06 11:57:27 INFO  shopallTest:67 - finshing test : register()
+2025-09-06 12:25:11 INFO  shopallTest:39 - finish test: login()
+2025-09-06 12:25:35 INFO  shopallTest:39 - finish test: login()
+2025-09-06 12:25:44 ERROR shopallTest:64 - The test failed
+2025-09-06 12:25:44 INFO  shopallTest:67 - finshing test : register()
+2025-09-06 12:33:32 INFO  shopallTest:39 - finish test: login()
+2025-09-06 12:34:03 INFO  shopallTest:39 - finish test: login()
+2025-09-06 12:34:34 ERROR shopallTest:64 - The test failed
+2025-09-06 12:34:34 INFO  shopallTest:67 - finshing test : register()
+2025-09-07 09:51:12 INFO  shopallTest:39 - finish test: login()
+2025-09-07 09:51:17 ERROR shopallTest:64 - The test failed
+2025-09-07 09:51:17 INFO  shopallTest:67 - finshing test : register()
+2025-09-07 09:51:31 INFO  shopallTest:39 - finish test: login()
+2025-09-07 09:51:40 ERROR shopallTest:64 - The test failed
+2025-09-07 09:51:40 INFO  shopallTest:67 - finshing test : register()
+2025-09-07 09:53:51 INFO  shopallTest:39 - finish test: login()
+2025-09-07 09:54:08 INFO  shopallTest:62 - register test passed successfully
+2025-09-07 09:54:08 INFO  shopallTest:67 - finshing test : register()
+2025-09-07 09:54:48 INFO  shopallTest:39 - finish test: login()
+2025-09-07 09:54:57 ERROR shopallTest:64 - The test failed
+2025-09-07 09:54:57 INFO  shopallTest:67 - finshing test : register()
+2025-09-07 09:55:10 INFO  shopallTest:39 - finish test: login()
+2025-09-07 09:55:23 INFO  shopallTest:62 - register test passed successfully
+2025-09-07 09:55:23 INFO  shopallTest:67 - finshing test : register()
+2025-09-07 10:28:43 INFO  shopallTest:39 - finish test: login()
+2025-09-07 10:29:27 ERROR shopallTest:64 - The test failed
+2025-09-07 10:29:27 INFO  shopallTest:67 - finshing test : register()
+2025-09-07 10:41:30 INFO  shopallTest:39 - finish test: login()
+2025-09-07 10:42:00 ERROR shopallTest:64 - The test failed
+2025-09-07 10:42:00 INFO  shopallTest:67 - finshing test : register()
+2025-09-07 10:42:13 INFO  shopallTest:39 - finish test: login()
+2025-09-07 10:42:20 ERROR shopallTest:64 - The test failed
+2025-09-07 10:42:20 INFO  shopallTest:67 - finshing test : register()
+2025-09-07 10:42:33 INFO  shopallTest:39 - finish test: login()
+2025-09-07 10:42:46 ERROR shopallTest:64 - The test failed
+2025-09-07 10:42:46 INFO  shopallTest:67 - finshing test : register()
+2025-09-07 10:48:53 INFO  shopallTest:39 - finish test: login()
+2025-09-07 10:49:12 INFO  shopallTest:62 - register test passed successfully
+2025-09-07 10:49:12 INFO  shopallTest:67 - finshing test : register()
+2025-09-07 11:15:21 INFO  shopallTest:51 - finish test: login()
+2025-09-07 11:15:51 ERROR shopallTest:126 - The test failed
+2025-09-07 11:15:51 INFO  shopallTest:129 - finshing test : register()
+2025-09-07 11:16:12 INFO  shopallTest:51 - finish test: login()
+2025-09-07 11:16:20 INFO  shopallTest:70 - register test passed successfully
+2025-09-07 11:16:54 ERROR shopallTest:126 - The test failed
+2025-09-07 11:16:54 INFO  shopallTest:129 - finshing test : register()
+2025-09-07 11:17:07 INFO  shopallTest:51 - finish test: login()
+2025-09-07 11:17:14 INFO  shopallTest:70 - register test passed successfully
+2025-09-07 11:17:25 ERROR shopallTest:126 - The test failed
+2025-09-07 11:17:25 INFO  shopallTest:129 - finshing test : register()
+2025-09-07 11:17:34 INFO  shopallTest:51 - finish test: login()
+2025-09-07 11:18:05 ERROR shopallTest:126 - The test failed
+2025-09-07 11:18:05 INFO  shopallTest:129 - finshing test : register()
+2025-09-07 11:19:10 INFO  shopallTest:51 - finish test: login()
+2025-09-07 11:19:18 INFO  shopallTest:70 - register test passed successfully
+2025-09-07 11:19:58 INFO  shopallTest:124 - register test passed successfully
+2025-09-07 11:19:58 INFO  shopallTest:129 - finshing test : register()
+2025-09-07 11:20:19 INFO  shopallTest:51 - finish test: login()
+2025-09-07 11:20:40 INFO  shopallTest:51 - finish test: login()
+2025-09-07 11:20:48 INFO  shopallTest:70 - register test passed successfully
+2025-09-07 11:21:29 INFO  shopallTest:124 - register test passed successfully
+2025-09-07 11:21:29 INFO  shopallTest:129 - finshing test : register()

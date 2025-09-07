@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SpreecommerceAutomationTest" parallel="tests" thread-count="2">
+
+
+
+    <listeners>
+        <listener class-name="org.example.datatest.utils.TestListener"/>
+    </listeners>
+
+    <test name="Chrome Test">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+<!--            <class name="org.example.datatest.tests.registerTest"/>-->
+<!--            <class name="org.example.datatest.tests.logintest"/>-->
+<!--            <class name="org.example.datatest.tests.shopallTest"/>-->
+<!--            <class name="org.example.datatest.tests.fashionTest"/>-->
+<!--                <class name="org.example.datatest.tests.newArrivalsTest"/>-->
+            <class name="org.example.datatest.tests.saleTest"/>
+
+        </classes>
+
+    </test>
+
+
+<!--    <test name="Firefox Test">-->
+<!--        <parameter name="browser" value="firefox"/>-->
+<!--        <classes>-->
+<!--            <class name="org.example.datatest.tests.registerTest"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+
+
+<!--    <test name="Edge Test">-->
+<!--        <parameter name="browser" value="Edge"/>-->
+<!--        <classes>-->
+<!--    &lt;!&ndash;            <class name="org.example.datatest.tests.registerTest"/>&ndash;&gt;-->
+<!--    &lt;!&ndash;            <class name="org.example.datatest.tests.logintest"/>&ndash;&gt;-->
+<!--    &lt;!&ndash;            <class name="org.example.datatest.tests.shopallTest"/>&ndash;&gt;-->
+<!--                    <class name="org.example.datatest.tests.fashionTest"/>-->
+<!--    &lt;!&ndash;            <class name="org.example.datatest.tests.wellnessTest"/>&ndash;&gt;-->
+<!--        </classes>-->
+<!--    </test>-->
+
+</suite>
