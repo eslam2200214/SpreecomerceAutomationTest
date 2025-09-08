@@ -1195,3 +1195,8 @@
 2025-09-07 13:54:55 INFO  shopallTest:70 - register test passed successfully
 2025-09-07 13:55:33 INFO  shopallTest:124 - register test passed successfully
 2025-09-07 13:55:33 INFO  shopallTest:129 - finshing test : register()
+2025-09-08 11:10:59 INFO  shopallTest:51 - finish test: login()
+2025-09-08 11:11:54 INFO  shopallTest:51 - finish test: login()
+2025-09-08 11:12:01 INFO  shopallTest:70 - register test passed successfully
+2025-09-08 11:12:51 INFO  shopallTest:124 - register test passed successfully
+2025-09-08 11:12:51 INFO  shopallTest:129 - finshing test : register()

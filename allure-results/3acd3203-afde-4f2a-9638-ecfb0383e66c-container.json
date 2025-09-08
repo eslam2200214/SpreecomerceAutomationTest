@@ -1,1 +1,0 @@
-{"uuid":"3acd3203-afde-4f2a-9638-ecfb0383e66c","name":"org.example.datatest.tests.newArrivalsTest","children":["681ac6b1-66d4-405e-a899-19ec79cab583"],"befores":[],"afters":[{"name":"teardown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1757148400330,"stop":1757148400330}],"start":1757148377773,"stop":1757148400376}

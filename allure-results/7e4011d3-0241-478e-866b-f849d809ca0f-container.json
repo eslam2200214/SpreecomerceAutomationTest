@@ -1,1 +1,0 @@
-{"uuid":"7e4011d3-0241-478e-866b-f849d809ca0f","name":"org.example.datatest.tests.fashionTest","children":["3e1268fe-0b39-463d-88fe-b45ca127fcff"],"befores":[],"afters":[{"name":"teardown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1756035880944,"stop":1756035880944}],"start":1756035852143,"stop":1756035880953}
